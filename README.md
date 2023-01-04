@@ -106,3 +106,5 @@ See the diagrams below to help visualize the expected behaviour.
 
 
 ### ***You may decide to take a different path in designing your solution. Happy coding.***
+
+***VanHack Learning Hub***
